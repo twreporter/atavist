@@ -1,0 +1,11 @@
+Polymer({
+    properties: {
+        the_sidebox: {
+            type: String,
+            notify: true
+        }
+    },
+    ready: function() {
+        // Ready callback goes here
+    }
+});

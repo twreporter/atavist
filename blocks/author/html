@@ -1,0 +1,2 @@
+<div class="author_name">| {{author_name}} |</div>
+<div class="author_intro">{{author_intro}}</div>

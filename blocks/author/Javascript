@@ -1,0 +1,18 @@
+Polymer({
+    properties: {
+        author: {
+            type: String,
+            observer: "split_author",
+            notify: true
+        }
+    },
+    split_author: function(author) {
+        author_full = this.author;
+        array = author_full.split("|");
+        this.author_name = array[0];
+        this.author_intro = array[1];
+    },
+    ready: function() {
+        // Ready callback goes here
+    }
+});

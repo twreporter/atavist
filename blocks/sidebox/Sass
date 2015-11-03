@@ -1,0 +1,11 @@
+& {
+display: block;
+         font-family: 'cwTeXHei';
+         font-style: normal;
+         font-size: 18px;
+         font-weight: bold;
+         border-style: solid;
+         border-width: 4px;
+         line-height: 2.5em;
+         word-spacing: 12px;
+}

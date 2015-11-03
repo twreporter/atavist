@@ -1,0 +1,14 @@
+& {
+display: block;
+padding: 13px 5px 13px 5px;
+         font-family: 'cwTeXHei', Roboto;
+         font-style: normal;
+         font-size: 0.9em;
+         font-weight: light;
+         font-color: #000000;
+         border-top-style: dotted;
+         border-bottom-style: dotted;
+         border-width: 1px;
+         line-height: 2.5em;
+         word-spacing: 12px;
+}

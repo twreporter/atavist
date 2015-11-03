@@ -1,0 +1,7 @@
+{
+    "the_sidebox": {
+        "label": "sidebar",
+            "type": "textarea",
+            "placeholder": "Type the text..."
+    }
+}
